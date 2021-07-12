@@ -1,0 +1,40 @@
+/* body color needs to be changed in main app.css */
+/* body{
+    background-color: cornsilk;
+} */
+
+.logo {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.app-title {
+    text-align: center;
+    color: rgb(64, 64, 230);
+    font-size: 70px;
+}
+
+.todo {
+    font-size: 40px;
+    color:rgb(189, 41, 189);
+    /* background-color: darkgray; */
+}
+
+.input-text {
+    font-size: 20px;
+}
+
+.add-btn {
+    font-size: 20px;
+    background-color: greenyellow;
+}
+
+.checkbox {
+    font-size: 50px;
+}
+
+.delete-btn {
+    /* font-size: 20px; */
+    /* background-color: red; */
+}
