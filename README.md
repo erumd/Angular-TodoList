@@ -1,4 +1,4 @@
-# YoutubeAng
+# Angular ToDo List
 
 ![Screenshot](./src/assets/screenshot.png)
 ## Description
